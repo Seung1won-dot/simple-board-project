@@ -1,0 +1,14 @@
+{
+  "name": "my-fullstack-backend",
+  "version": "1.0.0",
+  "description": "간단한 백엔드 서버 - 초보자용",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0"
+  }
+}
